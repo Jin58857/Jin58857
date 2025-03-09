@@ -1,9 +1,9 @@
 <div align="center">
   <!-- 响应式图片，根据暗色或亮色模式显示不同的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jin58857/Jin58857/blob/main/photos/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jin58857/Jin58857/blob/main/photos/Snipaste_2025-03-09_15-32-18.png" height="225px" />
-    <img src="https://github.com/Jin58857/Jin58857/blob/main/photos/arnaud-girault-BVDpC8gBHtY-unsplash.jpg" alt="Personal Image" width="400px" />
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jin58857/Jin58857/blob/main/photos/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jin58857/Jin58857/blob/main/photos/Snipaste_2025-03-09_15-32-18.png" height="225px" /> -->
+    <img src="https://github.com/Jin58857/Jin58857/blob/main/photos/Snipaste_2025-03-09_15-32-18.png" alt="Personal Image" width="400px" />
   </picture>
 
   <!-- 空行让页面更简洁 -->
